@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server>
+   <ftp>
+		<ip>10.181.131.144</ip>
+		<username>emos</username>
+		<password>zcxc123</password>
+	</ftp>
+	
+	<rootpath>
+		<http>ftp://eomsadm:eomsadm@10.175.20.109/accessories/uploadfile</http>
+		<httproot>/accessories/uploadfileaccessories/uploadfile</httproot>
+		<ftp>ftp://eomsadm:eomsadm@10.175.20.109/</ftp>
+		</rootpath>
+</server>
